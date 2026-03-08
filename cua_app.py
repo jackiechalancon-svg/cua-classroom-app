@@ -1,11 +1,4 @@
 import streamlit as st
-
-st.title("Diagnostic CUA de la classe")
-
-st.write("Créatrice de l'application : Jacky Chalancon")
-
-st.write("Cette application permettra d'analyser le profil cognitif général d'une classe et l'environnement capacitant.")
-import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
